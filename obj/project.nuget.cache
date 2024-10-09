@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UQPDpp04/NM=",
+  "dgSpecHash": "bt0RibbvPOo=",
   "success": true,
-  "projectFilePath": "D:\\SEMESTER 5\\KTI\\SecureWeb\\SecureWeb.csproj",
+  "projectFilePath": "D:\\SEMESTER 5\\KTI\\secureweb\\SecureWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\miche\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEMESTER 5\\KTI\\SecureWeb\\SecureWeb.csproj": {}
+    "D:\\SEMESTER 5\\KTI\\secureweb\\SecureWeb.csproj": {}
   },
   "projects": {
-    "D:\\SEMESTER 5\\KTI\\SecureWeb\\SecureWeb.csproj": {
+    "D:\\SEMESTER 5\\KTI\\secureweb\\SecureWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEMESTER 5\\KTI\\SecureWeb\\SecureWeb.csproj",
+        "projectUniqueName": "D:\\SEMESTER 5\\KTI\\secureweb\\SecureWeb.csproj",
         "projectName": "SecureWeb",
-        "projectPath": "D:\\SEMESTER 5\\KTI\\SecureWeb\\SecureWeb.csproj",
+        "projectPath": "D:\\SEMESTER 5\\KTI\\secureweb\\SecureWeb.csproj",
         "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
-        "outputPath": "D:\\SEMESTER 5\\KTI\\SecureWeb\\obj\\",
+        "outputPath": "D:\\SEMESTER 5\\KTI\\secureweb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miche\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
